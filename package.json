@@ -1,16 +1,26 @@
 {
-	"name": "NodejsStarterApp",
-	"version": "",
-	"private": true,
+    "name": "node-server",
+    "version": "0.0.0",
+    "description": "Serving static files node-server",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "private": true,
 	"scripts": {
 		"start": "node app.js"
 	},
-	"dependencies": {
-		"express": "",
-		"cfenv": ""
-	},
-	"repository": {},
-	"engines": {
-		"node": ""
-	}
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/davidsonbpe/node-server-html5-css-js.git"
+    },
+    "author": "node-server",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/davidsonbpe/node-server-html5-css-js/issues"
+    },
+    "homepage": "https://github.com/davidsonbpe/node-server-html5-css-js/#readme",
+    "dependencies": {
+        "express": "^4.14.0"
+    }
 }

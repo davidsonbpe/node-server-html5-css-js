@@ -10,4 +10,4 @@ Este aplicativo demonstra um aplicativo Web Node.js. simples e reutilizável, co
 1. `cd node-server-html5-css-js`
 1. `npm install` Instalar as dependências do aplicativo
 1. `npm start` Para iniciar o aplicativo
-1. Acesse o aplicativo em execução em um navegador em <http://localhost:6001/>
+1. Acesse o aplicativo em execução em um navegador em <http://localhost:3000/>
