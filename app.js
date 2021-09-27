@@ -6,7 +6,7 @@ var htmlPath = path.join(__dirname, 'public');
 
 app.use(express.static(htmlPath));
 
-var server = app.listen(3000, function () {
+var server = app.listen(3100, function () {
     var host = 'localhost';
     var port = server.address().port;
     console.log('listening on http://' + host + ':' + port + '/');
