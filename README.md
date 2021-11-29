@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/davidsonbpe/node-server-html5-css-js/master/node-icon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
+
 # Node Server html5 css js
 
 Este aplicativo demonstra um aplicativo Web Node.js. simples e reutilizável, com base na estrutura Express.
